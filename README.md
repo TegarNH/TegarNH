@@ -1,7 +1,7 @@
 # Hai!
 
-Hanya seorang mahasiswa yang lagi mengikuti program [Bangkit 2022](https://grow.google/intl/id_id/bangkit/) dengan Learning Path Mobile Development.\
-Boleh berkunjung ke [LinkedIn](https://www.linkedin.com/in/tegar-naufal-hanip-2b07761b9/) saya jika ingin mengetahui lebih detail mengenai saya. Salam kenal!
+Hanya seorang mahasiswa yang sedang mengikuti program [Bangkit 2022](https://grow.google/intl/id_id/bangkit/) dengan Learning Path Mobile Development.\
+Silahkan berkunjung ke [LinkedIn](https://www.linkedin.com/in/tegar-naufal-hanip-2b07761b9/) jika ingin mengetahui lebih detail tentang Saya. Salam kenal!
 
 ### Github Statistik
 <p align="left">
