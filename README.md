@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
    · Bangkit Graduate with Distiction 2022 (Android learning path)<br/>
-   · MSIB Cycle 3 at Dicoding Indonesia (Frond End & Back End learning path)
+   · MSIB Cycle 3 at Dicoding Indonesia (Front End & Back End learning path)
  </p>
 <br/>
 <p align="center">
