@@ -3,6 +3,7 @@
 </h1>
 <p align="center">
    · Bangkit Graduate with Distiction 2022 (Android learning path)<br/>
+   · Top 53 Capstone Team Bangkit 2022 : <a href="https://github.com/TegarNH/Capstone-Project-C22-PS135" target="_blank">Healthlens</a><br/>
    · MSIB Cycle 3 at Dicoding Indonesia (Front End & Back End learning path)
  </p>
 <br/>
