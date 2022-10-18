@@ -19,7 +19,7 @@
 
 ### Playground :
 - Android (Kotlin)
-- Frond End Web
+- Web Development
 - Figma
 
 ### Contact Me :
