@@ -16,8 +16,6 @@
   </a>
 </p>
 
-[![Tegar Activity Graph](https://activity-graph.herokuapp.com/graph?username=TegarNH&custom_title=TegarNH's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.linkedin.com/in/tegarnaufalhanip)
-
 ### Playground :
 - Android (Kotlin)
 - Web Development
