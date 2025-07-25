@@ -12,7 +12,7 @@
 
 ### Playground :
 - Android (Kotlin)
-- Web Development 
+- Web Development (Angular, .Net Core, Golang)
 - Figma
 
 ### Contact Me :
